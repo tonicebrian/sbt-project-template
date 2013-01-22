@@ -1,8 +1,8 @@
-name := "UserToUser"
+name := "TestProject"
 
 version := "1.0-SNAPSHOT"
 
-organization := "com.tuenti.recsys"
+organization := "com.tonicebrian"
 
 scalaVersion := "2.9.1"
 

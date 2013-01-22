@@ -1,4 +1,4 @@
-package com.example
+package com.tonicebrian
  
 object Calc {
     def add(x:Int, y:Int) : Int = x + y

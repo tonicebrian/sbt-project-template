@@ -1,6 +1,6 @@
-package com.example.test
+package com.tonicebrian.test
  
-import com.example.Calc
+import com.tonicebrian.Calc
 import org.scalatest.Suite
  
 class CalcTest extends Suite {
